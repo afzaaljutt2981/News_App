@@ -23,5 +23,5 @@ class MyApp extends StatelessWidget {
         ArticleScreen.routeName: (context) => const ArticleScreen(),
       },
     );
-  }
+  } 
 }
